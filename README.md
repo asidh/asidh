@@ -50,4 +50,7 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
  [PearOS Official Website](https://pearos.xyz)
 
  [PearOS Official Discord](https://discord.gg/FYGBBgJ3Xx)
+
+ [PearOS Official WhatsApp Group](https://chat.whatsapp.com/GyNugLyh336FXNqogxvCym)
  
+### pearOS by Alexandru Balan © 2019-2021
