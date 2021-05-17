@@ -21,6 +21,8 @@
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperStudio&show_icons=true&theme=react&include_all_commits=true"/>
 
+<iframe src="https://discord.com/widget?id=806858778263158834&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
 I am a programmer who is live in Hong Kong and learning in primary schoo
 I enjoy writing codes about discord.js or discord.py because I enjoy learning python and node.js. I am also one of the big fan of "The Pear Project"  
 This is actually my first time writing a ```readme.md``` file I think this is hard so I did not write it before this.
