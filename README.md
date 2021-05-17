@@ -1,5 +1,19 @@
 ### Hi there 👋
 
+  <h1 align="center">Hi there I'm Proladon 🔰</h1>
+  <p align="center"> I'm a Industrial Designer / FrontEnd / Youtuber </p>
+  <p align="center">
+    <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
+     <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+    </a>
+    <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
+     <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+    </a>
+    <br />
+    <br />
+    <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=Proladon&show_icons=true&theme=react"/>
+
+
 I am a programmer who is live in Hong Kong and learning in primary school
 I enjoy writing codes about discord.js or discord.py because I enjoy learning python and node.js. I am also one of the big fan of "The Pear Project"  
 This is actually my first time writing a ```readme.md``` file I think this is hard so I did not write it before this.
