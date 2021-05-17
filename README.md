@@ -18,9 +18,9 @@
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CasperStudio&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
   
-[![Github top language](https://img.shields.io/github/languages/top/CasperStudio/website?style=for-the-badge)
+(https://img.shields.io/github/languages/top/CasperStudio/Lorelei?style=for-the-badge)
   
-[![Casper's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CasperStudio&show_icons=true&theme=react&include_all_commits=true)
+(https://github-readme-stats.vercel.app/api/top-langs/?username=CasperStudio&show_icons=true&theme=react&include_all_commits=true)
 
 I am a programmer who is live in Hong Kong and learning in primary schoo
 I enjoy writing codes about discord.js or discord.py because I enjoy learning python and node.js. I am also one of the big fan of "The Pear Project"  
