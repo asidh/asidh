@@ -4,10 +4,10 @@
   <p align="center"> I'm a Software Engineer / Student / Youtuber / Programmer</p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
-     <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
+     <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHPayb2Xrn_lcbMgrKLs70A&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
     </a>
     <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
-     <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCczXI0u-LKlX-oBwrkKtOdg&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
+     <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCHPayb2Xrn_lcbMgrKLs70A&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/>
     </a>
     <br />
     <br />
