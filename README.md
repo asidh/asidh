@@ -4,6 +4,7 @@
   <p align="center"> I'm a Software Engineer / Student / Youtuber / Programmer</p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
+      <img src="https://img.shields.io/github/languages/top/CasperStudio/Lorelei?style=for-the-badge"/>
      <img alt="youtube subscribers" src="https://github-readme-youtube-stats.herokuapp.com/subscribers/index.php?id=UCHPayb2Xrn_lcbMgrKLs70A&key=AIzaSyD13Zw08DCzDP2Cq7x7eIEhn6r2tvYphgs&label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/>
     </a>
     <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
@@ -17,8 +18,6 @@
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=CasperStudio&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
   </a>
-  
-<img src="https://img.shields.io/github/languages/top/CasperStudio/Lorelei?style=for-the-badge"/>
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CasperStudio&show_icons=true&theme=react&include_all_commits=true"/>
 
