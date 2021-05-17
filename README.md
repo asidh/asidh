@@ -12,9 +12,13 @@
     <br />
     <br />
     <img alt="youtube views" src="https://github-readme-stats.vercel.app/api?username=CasperStudio&show_icons=true&theme=react"/>
+  
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Proladon's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Proladon&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+  </a>
 
-
-I am a programmer who is live in Hong Kong and learning in primary school
+I am a programmer who is live in Hong Kong and learning in primary schoo
 I enjoy writing codes about discord.js or discord.py because I enjoy learning python and node.js. I am also one of the big fan of "The Pear Project"  
 This is actually my first time writing a ```readme.md``` file I think this is hard so I did not write it before this.
 
