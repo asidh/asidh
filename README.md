@@ -82,4 +82,5 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
 
  [PearOS Official WhatsApp Group](https://chat.whatsapp.com/GyNugLyh336FXNqogxvCym)
  
-### pearOS by Alexandru Balan © 2019-2021
+ 
+ **pearOS by [Alexandru Balan](https://github.com/alxb421) © 2019-2021**
