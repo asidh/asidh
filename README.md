@@ -32,6 +32,14 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
 -😄 Pronouns: C|as|p|er + Studio (He / Him)
 
 -⚡ Fun fact: Windows is not good for programming, switch to linux or macOS :)
+# Languages I know
+- HTML <img height="15" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
+- CSS <img height="15" src="https://cdn.345tool.com/public/logos/css-formatter-logo.png">
+- Some Javascript <img height="15" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+- Some PHP <img height="15" src="https://svgshare.com/i/V9h.svg">
+- Gambas3 <img height="15" src="https://reposcope.com/media/unknown/none/unknown/application-x-gambas3.png">
+- Shell(bash) <img height="15" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png">
+- Python  <img height="15" src="https://en.wikipedia.org/wiki/Python_(programming_language)#/media/File:Python_logo_and_wordmark.svg">
 
 ### What OS I am using right now? / What OS I installed on my PC?
 
