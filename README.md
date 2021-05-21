@@ -84,7 +84,7 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
 -Tim Ruscica
     
 ### Please support me by
- [![Discord Server](https://img.shields.io/badge/Discord-Click%20Me-red?style=for-the-badge)](https://discord.gg/X49fgHHY8
+[![Discord Server](https://img.shields.io/badge/Discord-Click%20Me-red?style=for-the-badge)](https://discord.gg/X49fgHHY8)
 
 [![Youtube Channel](https://img.shields.io/badge/Youtuber-Click%20Me-red?style=for-the-badge)](https://m.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A)
 
