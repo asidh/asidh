@@ -68,7 +68,21 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
 -Windows 7
 
 -Tiny10 (Lighter Windows 10 Enterprise editied by NTDEV)
-
+    
+## Special Thanks
+    
+    Rex Proladon
+    
+    Alexandru Balan
+    
+    Phoneix
+    
+    axtloss
+    
+    Agampreet Singh
+    
+    Tim Ruscica
+    
 ### Please support me by
  [![Discord Server](https://img.shields.io/badge/Discord-Click%20Me-red?style=for-the-badge)](https://discord.gg/X49fgHHY8h)
 
