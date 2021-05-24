@@ -98,4 +98,4 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
  
  
 
-   [pearOS](https://pearos.xyz) by [Alexandru Balan](https://github.com/alxb421) © 2019-2021**
+   [pearOS](https://pearos.xyz) by [Alexandru Balan](https://github.com/alxb421) © 2019-2021
