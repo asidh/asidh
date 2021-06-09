@@ -43,6 +43,8 @@ This is actually my first time writing a ```readme.md``` file I think this is ha
 
 ### What OS I am using right now? / What OS I installed on my PC?
 
+-pearOS Monterey   
+    
 -pearOS ThiccSur
 
 -pearOS SnowMojave
