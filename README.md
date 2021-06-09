@@ -1,7 +1,7 @@
 
 
   <h1 align="center">Hi there I'm Casper 🔰</h1>
-  <p align="center"> I'm a Software Engineer / Student / Youtuber / Programmer</p>
+  <p align="center"> I'm a Software Engineer / Student / Youtuber / Programmer / a big fan of Craig Federighi</p>
   <p align="center">
     <a href="https://www.youtube.com/channel/UCHPayb2Xrn_lcbMgrKLs70A">
       <img src="https://img.shields.io/github/languages/top/CasperStudio/Lorelei?style=for-the-badge"/>
